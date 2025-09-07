@@ -99,9 +99,9 @@ main {
   align-items: center;
 }
 
-main2 {
+.main2 {
   min-height: 300px;
-  padding-top: 20px;
+  padding-top: 50px;
 }
 
 /* Hero Box Layout */
@@ -229,7 +229,11 @@ a.navbutton:hover {
     padding-top: 20px;
 }
 
+.inputwrapper {
+    margin-top: 20px;
+    margin-bottom: 20px;
 
+}
 /*===================================================================
   MISCELLANEOUS
 ===================================================================*/
